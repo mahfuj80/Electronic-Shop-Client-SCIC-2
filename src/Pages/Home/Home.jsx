@@ -1,7 +1,11 @@
+import Banner from '../../components/Home/Banner/Banner';
+import NewsLatter from '../../components/Home/NewsLatter/NewsLatter';
+
 const Home = () => {
   return (
     <div>
-      <h1>This is Home Page</h1>
+      <Banner></Banner>
+      <NewsLatter></NewsLatter>
     </div>
   );
 };

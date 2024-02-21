@@ -4,7 +4,7 @@ import Footer from '../../components/Shared/Footer/Footer';
 
 const UserLayout = () => {
   return (
-    <div className="">
+    <div className="container mx-auto">
       <Navbar></Navbar>
       <Outlet></Outlet>
       <Footer></Footer>
