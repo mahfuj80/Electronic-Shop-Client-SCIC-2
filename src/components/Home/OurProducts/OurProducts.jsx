@@ -5,7 +5,7 @@ const OurProducts = () => {
         <h2 className="pb-4 text-2xl font-bold text-center text-gray-800 md:text-4xl dark:text-gray-400">
           Featured Products
         </h2>
-        <div class="w-20 mx-auto mb-8 border-b border-red-700 dark:border-gray-400"></div>
+        <div className="w-20 mx-auto mb-8 border-b border-red-700 dark:border-gray-400"></div>
         <div className="grid grid-cols-1 gap-4 lg:gap-4 sm:gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <div className="overflow-hidden bg-white rounded shadow dark:bg-gray-700">
             <a href="#" className="relative block h-64 overflow-hidden">
