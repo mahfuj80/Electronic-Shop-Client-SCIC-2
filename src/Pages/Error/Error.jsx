@@ -1,10 +1,10 @@
 const Error = () => {
   return (
-    <section className="bg-blue-100 md:h-screen font-poppins dark:bg-gray-900 overflow-hidden">
-      <div className="flex items-center h-screen">
+    <section className="bg-blue-100 md:h-screen font-poppins dark:bg-gray-900 overflow-auto flex items-center justify-center">
+      <div className="flex items-center h-screen py-8 ">
         <div className="justify-center max-w-6xl px-4 mx-auto text-center ">
           <div className="w-full p-8 bg-white rounded-md dark:bg-gray-800">
-            <div className="hidden w-full mb-6 xl:block lg:block">
+            <div className=" w-full mb-6 xl:block lg:block">
               <img
                 src="https://i.postimg.cc/qqVRfZbf/pexels-tim-gouw-52608.jpg"
                 alt="Error Image"
