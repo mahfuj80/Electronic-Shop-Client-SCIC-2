@@ -87,27 +87,42 @@ const Navbar = () => {
   const desktopNavLink = (
     <>
       <li>
-        <a href="" className="text-sm text-gray-700 hover:text-sky-700 ">
+        <a
+          href=""
+          className="text-sm text-gray-400 font-semibold hover:text-sky-700 "
+        >
           Home
         </a>
       </li>
       <li>
-        <a href="" className="text-sm text-gray-700 hover:text-sky-700 ">
+        <a
+          href=""
+          className="text-sm text-gray-400 font-semibold hover:text-sky-700 "
+        >
           About us
         </a>
       </li>
       <li>
-        <a href="" className="text-sm text-gray-700 hover:text-sky-700 ">
+        <a
+          href=""
+          className="text-sm text-gray-400 font-semibold hover:text-sky-700 "
+        >
           Features
         </a>
       </li>
       <li>
-        <a href="" className="text-sm text-gray-700 hover:text-sky-700 ">
-          Blog{' '}
+        <a
+          href=""
+          className="text-sm text-gray-400 font-semibold hover:text-sky-700 "
+        >
+          Blog
         </a>
       </li>
       <li>
-        <a href="" className="text-sm text-gray-700 hover:text-sky-700 ">
+        <a
+          href=""
+          className="text-sm text-gray-400 font-semibold hover:text-sky-700 "
+        >
           Testimonials
         </a>
       </li>
